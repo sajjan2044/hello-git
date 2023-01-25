@@ -1,3 +1,7 @@
-This file is being traacked by git
+This is 3rd edit.
 
 Welcome to git!!!
+
+Now that we have added and committed the file, let us add one more line.
+
+And this is another line.
