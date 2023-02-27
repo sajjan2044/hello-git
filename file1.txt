@@ -1,7 +1,6 @@
-This is 3rd edit.
+This is 1st edit.
 
-Welcome to git!!!
+Hello Git
 
-Now that we have added and committed the file, let us add one more line.
 
 And this is another line.
