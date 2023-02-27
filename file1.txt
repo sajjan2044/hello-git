@@ -1,6 +1,6 @@
-This is 1st edit.
+This is 1st commit
+
+Hello World
 
 Hello Git
 
-
-And this is another line.
