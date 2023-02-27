@@ -1,6 +1,14 @@
-This is 1st commit
+package hello;
 
-Hello World
+public class Hello {
 
-Hello Git
+	public static void main(String[] args) {
+
+		System.out.println("Hello world");
+    
+    		System.out.println("Hello Git");
+
+	}
+
+}
 
